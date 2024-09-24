@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="First_Assignment_CalcTemp" />
         <module name="Assignment_2" />
+        <module name="Assignment3" />
       </profile>
     </annotationProcessing>
   </component>
