@@ -9,6 +9,7 @@
         <module name="First_Assignment_CalcTemp" />
         <module name="Assignment_2" />
         <module name="Assignment3" />
+        <module name="Assignment4" />
       </profile>
     </annotationProcessing>
   </component>
