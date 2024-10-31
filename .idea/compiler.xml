@@ -10,6 +10,7 @@
         <module name="Assignment_2" />
         <module name="Assignment3" />
         <module name="Assignment4" />
+        <module name="AnimalShelter" />
       </profile>
     </annotationProcessing>
   </component>
