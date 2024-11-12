@@ -11,6 +11,7 @@
         <module name="Assignment3" />
         <module name="Assignment4" />
         <module name="AnimalShelter" />
+        <module name="Recursion" />
       </profile>
     </annotationProcessing>
   </component>
